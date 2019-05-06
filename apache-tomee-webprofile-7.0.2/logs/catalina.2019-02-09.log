@@ -1,0 +1,90 @@
+09-Feb-2019 19:39:50.578 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version:        Apache Tomcat (TomEE)/8.5.6 (7.0.2)
+09-Feb-2019 19:39:50.579 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server built:          Oct 6 2016 20:15:31 UTC
+09-Feb-2019 19:39:50.579 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server number:         8.5.6.0
+09-Feb-2019 19:39:50.579 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Name:               Windows 7
+09-Feb-2019 19:39:50.579 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Version:            6.1
+09-Feb-2019 19:39:50.579 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+09-Feb-2019 19:39:50.579 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Java Home:             C:\Program Files\Java\jdk1.8.0_144\jre
+09-Feb-2019 19:39:50.579 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Version:           1.8.0_144-b01
+09-Feb-2019 19:39:50.579 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Oracle Corporation
+09-Feb-2019 19:39:50.579 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2
+09-Feb-2019 19:39:50.579 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2
+09-Feb-2019 19:39:50.580 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -javaagent:C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\lib\openejb-javaagent.jar
+09-Feb-2019 19:39:50.580 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Feb-2019 19:39:50.580 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Feb-2019 19:39:50.580 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\conf\logging.properties
+09-Feb-2019 19:39:50.581 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Feb-2019 19:39:50.581 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2
+09-Feb-2019 19:39:50.581 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2
+09-Feb-2019 19:39:50.581 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\temp
+09-Feb-2019 19:39:50.581 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_144\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Google\Chrome\Application;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\Users\Tomas\AppData\Local\GitHubDesktop\bin;C:\Users\Tomas\apache-ant-1.10.1\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Users\Tomas\AppData\Local\GitHubDesktop\bin;C:\Users\Tomas\AppData\Local\atom\bin;.
+09-Feb-2019 19:39:50.881 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8080"]
+09-Feb-2019 19:39:51.036 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Using a shared selector for servlet write/read
+09-Feb-2019 19:39:51.042 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["ajp-nio-8009"]
+09-Feb-2019 19:39:51.045 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Using a shared selector for servlet write/read
+09-Feb-2019 19:39:51.527 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+09-Feb-2019 19:39:51.671 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+09-Feb-2019 19:39:51.672 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+09-Feb-2019 19:39:51.672 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Sat Feb 09 19:39:51 EET 2019
+09-Feb-2019 19:39:51.672 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2016 (C) Apache OpenEJB Project, All Rights Reserved.
+09-Feb-2019 19:39:51.672 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 7.0.2
+09-Feb-2019 19:39:51.672 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20161106
+09-Feb-2019 19:39:51.672 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 07:23
+09-Feb-2019 19:39:51.672 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+09-Feb-2019 19:39:51.673 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2
+09-Feb-2019 19:39:51.673 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2
+09-Feb-2019 19:39:51.675 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@290d210d
+09-Feb-2019 19:39:51.675 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+09-Feb-2019 19:39:51.725 INFO [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\conf\tomee.xml'
+09-Feb-2019 19:39:51.810 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+09-Feb-2019 19:39:51.812 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+09-Feb-2019 19:39:51.816 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+09-Feb-2019 19:39:51.820 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+09-Feb-2019 19:39:51.882 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+09-Feb-2019 19:39:51.975 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+09-Feb-2019 19:39:52.253 INFO [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+09-Feb-2019 19:39:52.253 INFO [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+09-Feb-2019 19:39:52.253 INFO [main] org.apache.openejb.server.SimpleServiceManager.start -------
+09-Feb-2019 19:39:52.254 INFO [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+09-Feb-2019 19:39:52.254 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initialization processed in 2223 ms
+09-Feb-2019 19:39:52.287 INFO [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+09-Feb-2019 19:39:52.287 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+09-Feb-2019 19:39:52.294 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting service Catalina
+09-Feb-2019 19:39:52.294 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet Engine: Apache Tomcat (TomEE)/8.5.6 (7.0.2)
+09-Feb-2019 19:39:52.311 INFO [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application directory C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\docs
+09-Feb-2019 19:39:52.328 INFO [localhost-startStop-1] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /docs
+09-Feb-2019 19:39:52.529 INFO [localhost-startStop-1] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\docs
+09-Feb-2019 19:39:52.614 INFO [localhost-startStop-1] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\docs" loaded.
+09-Feb-2019 19:39:52.620 INFO [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\docs
+09-Feb-2019 19:39:52.740 INFO [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\docs)
+09-Feb-2019 19:39:52.992 INFO [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Feb-2019 19:39:53.089 INFO [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application directory C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\docs has finished in 777 ms
+09-Feb-2019 19:39:53.089 INFO [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application directory C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\host-manager
+09-Feb-2019 19:39:53.101 INFO [localhost-startStop-1] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /host-manager
+09-Feb-2019 19:39:53.168 INFO [localhost-startStop-1] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\host-manager
+09-Feb-2019 19:39:53.176 INFO [localhost-startStop-1] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\host-manager" loaded.
+09-Feb-2019 19:39:53.177 INFO [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\host-manager
+09-Feb-2019 19:39:53.188 INFO [localhost-startStop-1] org.apache.tomee.catalina.TomcatWebAppBuilder.deployWebApps using context file C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\host-manager\META-INF\context.xml
+09-Feb-2019 19:39:53.188 INFO [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\host-manager)
+09-Feb-2019 19:39:53.244 INFO [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Feb-2019 19:39:53.294 INFO [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application directory C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\host-manager has finished in 205 ms
+09-Feb-2019 19:39:53.294 INFO [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application directory C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\manager
+09-Feb-2019 19:39:53.306 INFO [localhost-startStop-1] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /manager
+09-Feb-2019 19:39:53.363 INFO [localhost-startStop-1] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\manager
+09-Feb-2019 19:39:53.379 INFO [localhost-startStop-1] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\manager" loaded.
+09-Feb-2019 19:39:53.380 INFO [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\manager
+09-Feb-2019 19:39:53.393 INFO [localhost-startStop-1] org.apache.tomee.catalina.TomcatWebAppBuilder.deployWebApps using context file C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\manager\META-INF\context.xml
+09-Feb-2019 19:39:53.393 INFO [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\manager)
+09-Feb-2019 19:39:53.494 INFO [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Feb-2019 19:39:53.541 INFO [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application directory C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\manager has finished in 247 ms
+09-Feb-2019 19:39:53.541 INFO [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application directory C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\ROOT
+09-Feb-2019 19:39:53.544 INFO [localhost-startStop-1] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /
+09-Feb-2019 19:39:53.603 INFO [localhost-startStop-1] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\ROOT
+09-Feb-2019 19:39:53.615 INFO [localhost-startStop-1] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\ROOT" loaded.
+09-Feb-2019 19:39:53.615 INFO [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\ROOT
+09-Feb-2019 19:39:53.630 INFO [localhost-startStop-1] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\ROOT)
+09-Feb-2019 19:39:53.674 INFO [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Feb-2019 19:39:53.714 INFO [localhost-startStop-1] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application directory C:\Users\Tomas\Desktop\apache-tomee-webprofile-7.0.2\webapps\ROOT has finished in 173 ms
+09-Feb-2019 19:39:53.722 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler [http-nio-8080]
+09-Feb-2019 19:39:53.730 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler [ajp-nio-8009]
+09-Feb-2019 19:39:53.735 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server startup in 1481 ms
