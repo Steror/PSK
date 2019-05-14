@@ -16,17 +16,8 @@ import javax.annotation.PreDestroy;
 
 @Named
 //@RequestScoped
- @SessionScoped
-public class PirmasKomponentas implements Serializable {
-
-//    @Inject
-    private AntrasKomponentas antrasKomponentas;
-
-    @Inject
-    public PirmasKomponentas (AntrasKomponentas antrasKomponentas) {
-        this.antrasKomponentas = antrasKomponentas;}
-
-    public PirmasKomponentas (){}
+@SessionScoped
+public class AntrasKomponentas implements Serializable {
 
     public String sakykLabas() {
         return "Labas " + new Date() + " " + toString();
@@ -35,7 +26,6 @@ public class PirmasKomponentas implements Serializable {
     @PostConstruct
     public void init() {
         System.out.println(toString() + " constructed.");
-        System.out.println(antrasKomponentas.getClass().getName());
     }
 
     @PreDestroy
