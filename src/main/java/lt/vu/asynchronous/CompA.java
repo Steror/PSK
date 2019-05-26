@@ -12,14 +12,14 @@ import java.util.concurrent.Future;
 public class CompA implements Serializable {
 
     @Inject
-    private CompB compB;
+    private Sleeper sleeper;
 
     private Future<String> resultInFuture = null;
 
     public String callAsyncMethod() throws ExecutionException, InterruptedException {
         if (resultInFuture == null) {
-            resultInFuture = compB.asyncMethod();
-            return "I just have called CompB. Result is ready? " + resultInFuture.isDone();
+            resultInFuture = sleeper.asyncMethod();
+            return "I just have called Sleeper. Result is ready? " + resultInFuture.isDone();
         } else {
             if (resultInFuture.isDone()) {
                 String result = resultInFuture.get();

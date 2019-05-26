@@ -8,5 +8,7 @@
 
     <alternatives>
         <class>org.apache.deltaspike.jpa.impl.transaction.ContainerManagedTransactionStrategy</class>
+        <class>lt.vu.asynchronous.CompC</class>
+        <!--<class>lt.vu.asynchronous.FastCompC</class>-->
     </alternatives>
 </beans>
