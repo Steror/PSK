@@ -14,4 +14,7 @@
     <interceptors>
         <class>lt.vu.interceptor.LoggedInterceptor</class>
     </interceptors>
+    <decorators>
+        <class>lt.vu.decorator.SleeperDecorator</class>
+    </decorators>
 </beans>
