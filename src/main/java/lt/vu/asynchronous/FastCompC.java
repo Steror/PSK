@@ -1,5 +1,6 @@
 package lt.vu.asynchronous;
 
+import lt.vu.interceptor.Logged;
 import lt.vu.usecases.cdi.RescueOrAsync;
 import org.apache.deltaspike.core.api.future.Futureable;
 
@@ -14,6 +15,7 @@ import java.util.concurrent.Future;
 
 @Specializes
 @Alternative
+@Logged
 @ApplicationScoped
 public class FastCompC extends CompC {
 

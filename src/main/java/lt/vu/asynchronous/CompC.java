@@ -1,5 +1,6 @@
 package lt.vu.asynchronous;
 
+import lt.vu.interceptor.Logged;
 import lt.vu.usecases.cdi.RescueOrAsync;
 import org.apache.deltaspike.core.api.future.Futureable;
 
@@ -13,6 +14,7 @@ import java.io.Serializable;
 import java.util.concurrent.Future;
 
 @Alternative
+@Logged
 @ApplicationScoped
 public class CompC implements Serializable, Sleeper {
 

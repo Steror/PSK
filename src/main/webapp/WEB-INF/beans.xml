@@ -11,4 +11,7 @@
         <class>lt.vu.asynchronous.CompC</class>
         <!--<class>lt.vu.asynchronous.FastCompC</class>-->
     </alternatives>
+    <interceptors>
+        <class>lt.vu.interceptor.LoggedInterceptor</class>
+    </interceptors>
 </beans>
